@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd blas
 rm -rf lapack-3.12.0
 tar -zxf lapack-3.12.0.tar.gz
